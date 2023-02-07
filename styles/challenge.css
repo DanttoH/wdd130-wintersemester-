@@ -5,3 +5,31 @@ body {
     width: 200px;
     font-size: 24px;
 }
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+h1:hover{
+    background-color: palevioletred;
+    color: black;
+}
+.main-quote{
+    text-align: center;
+    color: white;
+}
+.steps{
+    text-align: center;
+    color: black;
+}
+#container{
+    width: 50%;
+    margin: 0 auto;
+}
+img{
+    max-width: 50%;
+}
+footer p {
+    text-align: center;
+    color: black;
+}
