@@ -1,6 +1,4 @@
-body {
-    text-align: center;
-  }
+
   nav {
     background-color: steelblue;
     padding: 10px;
@@ -23,3 +21,19 @@ body {
     background-color: steelblue;
     color: white;
   }
+  img {
+    width: 30%;
+}
+p {
+    width: 80%;
+}
+a {
+    font-size: 1.5em;
+}
+
+img {
+    width: 80%;
+}
+* {
+    border: 2px solid blue;
+}
