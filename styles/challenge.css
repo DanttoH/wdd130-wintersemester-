@@ -3,12 +3,12 @@ body {
 }
 #quote{
     width: 200px;
-    font-size: 24px;
+    font-size: 2.5em;
 }
 h1 {
     text-align: center;
     color: white;
-    font-size: 30px;
+    font-size: 2.5em;
 }
 h1:hover{
     background-color: palevioletred;
