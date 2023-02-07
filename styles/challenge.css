@@ -3,7 +3,7 @@
     line-height: 1.5em;
 }
 h1:hover {
-  background-color: white;
+  background-color: palevioletred;
   color: black;
 }
 ol {
@@ -16,11 +16,15 @@ footer {
     margin: 10px auto;
 }
 img {
-    width: 40%;
+    width: 10%;
     display: block;
     margin: 0 auto;
 }
 .main-quote {
     font-size: 2.5em;
     line-height: 2.5em;
+}
+li {
+    text-align: center;
+    color: black;
 }
