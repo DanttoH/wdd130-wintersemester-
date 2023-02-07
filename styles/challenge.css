@@ -1,0 +1,26 @@
+.final-quote {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+h1:hover {
+  background-color: white;
+  color: black;
+}
+ol {
+    color: black;
+    font-size: 2.0em;
+}
+footer {
+    color: black;
+    font-size: 10px;
+    margin: 10px auto;
+}
+img {
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+.main-quote {
+    font-size: 2.5em;
+    line-height: 2.5em;
+}
