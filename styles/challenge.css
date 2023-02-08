@@ -2,34 +2,50 @@ body {
     background-color: pink;
 }
 #quote{
-    font-size: 30px;
+    font-size: 2.5em;
     color: white;
     text-align: center;
-    width: 100px;
-    margin: 0  auto;
-    display: block;
+    width: 25%;
+    margin: 0 auto;
     padding: 20px;
 }
 h1  {
     text-align: center;
     color: white;
     font-size: 2.5em
+    
 }
 h1:hover{
     background-color: pink;
     color: black;
 }
 .main-quote {
-    text-align: center;
     color: white;
     margin: 0 auto;
-    width: 80%;
     display: block;
-    font-size: 25px;
+    font-size: 15px;
     margin: 0  auto;
     padding: 20px;
-}
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    padding: 2px;
 
+}
+.main-quote1 {
+    color: white;
+    margin: 0 auto;
+    display: block;
+    font-size: 20px;
+    margin: 0  auto;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    padding: 2px;
+    margin-bottom: 20px;
+
+}
 .steps p{
     display: inline-block;
     text-align: center;
